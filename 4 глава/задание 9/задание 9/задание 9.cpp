@@ -11,6 +11,7 @@ struct time {
 int main()
 {
     setlocale(0, "");
+
     cout << "введите данные в формате ч/м/с=  ";
     char ch;
     time t1;
